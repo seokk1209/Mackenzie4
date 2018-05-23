@@ -1,12 +1,14 @@
-= Pinterest Style Web App
-== Week 4 of my 12 in 12 Challenge
+#전체적인 과정
+전체적으로 지금까지 배워왔던 모든 개념을 동원하여 핀보드를 만드는 것을 목표로 하였다.
 
-My goal with this challenge is to teach myself Ruby on Rails by building a new web app (using rails) each week for 12 weeks.
+#새로 안 내용
+- haml 사용법
 
-This week I built a Pinterest style web app, with Users, Pins, Image Uploading and all that good stuff!
 
-{View the demo application here}[http://week-4-pin-board.herokuapp.com/], and watch the {How To Screencast here}[http://youtu.be/abcnfFS_DS8]
 
----
+#오류 내용
 
-You can find me on {Twitter}[http://twitter.com/mackenziechild] or follow along for more Rails on my website {MackenzieChild.me}[http://mackenziechild.me]
+- 세번째 과제는 시간에 .... 쫓겨 제대로 수행하지 못했다..
+- 중간부분부터는 오류를 너무 많이 내서 더이상 따라가지 못하고 클론을 해서 결과물을 확인하였다..
+- 죄송합니다... 선 팀플 마무리 후에 다시 해서 올리도록 하겠습니다...
+-
